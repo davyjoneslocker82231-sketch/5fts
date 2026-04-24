@@ -27,13 +27,14 @@ FL Studio 5.
 SO GO GET FL5 ON EBAY OR GRAB THE SOUND EFFECTS HERE: https://archive.org/download/packs_20260419/Packs.zip)
 
 Here's some Deadmau5 BPM's from his 2000's era:
-118.024,
+128.023,
+126.000,
+(these are the deadamau5 / 1981 BPM's)
+118.024 (or 118.033 for better sounding),
 124.034,
 120.850,
 117.562,
-(these are the deadamau5 / 1981 BPM's)
 128.023,
-126.000,
 (and etc...)
 
 made by user hlder on pouet.
