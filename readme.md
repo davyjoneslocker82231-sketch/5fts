@@ -16,7 +16,7 @@ layer a pluck over a short bass, or idk probably put a bell on it too
 also z3ta+ 1 is the best for deadmau5 feelin
 get a Baltimore drumloop and layer it on a house drum loop then add another house drum loop and boom you (kinda) get deadmau5
 
-i guess this is version 0.1.2
+i guess this is version 0.1.1
 
 also, (EDT) means EDITED ORIGINAL PRESET.
 that also means its a edited sytrus factory preset.
