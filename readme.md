@@ -1,4 +1,5 @@
 this is a collection of deadmau5 sounding things/hlder sound pack.
+(i'm hlder btw)
 FL5 is needed for the:
 Kick,
 Snare,
